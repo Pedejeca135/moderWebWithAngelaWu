@@ -1,0 +1,27 @@
+div{
+    display: block;
+    width:100px;
+    height: 100px;
+}
+
+.container{
+    /* position:relative; */
+    background-color:blueviolet;
+    width:400px;
+    height:400px;
+    /* left:100px; */
+}
+
+.red{
+    background-color:red;
+    position:absolute;
+    left:400px;
+}
+
+.yellow{
+    background-color:yellow;
+}
+
+.blue{
+    background-color:blue;
+}
