@@ -11,6 +11,7 @@ h1{
     /* width:10%; */
     /* This is other way to center a block or inline-block element */
     /* margin:0 auto 0 auto; */
+    font-size: 1em;
 }
 
 h2{
